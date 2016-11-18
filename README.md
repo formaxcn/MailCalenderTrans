@@ -1,3 +1,8 @@
+ref https://developers.google.com/google-apps/calendar/v3/reference/calendars/insert
+ctrl + shift + 1 CR
+ctrl + shift + a YHAChina
+
+
 The MIT License (MIT)
 Copyright © 2016 <copyright holders>
 
