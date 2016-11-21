@@ -1,3 +1,5 @@
+install https://greasyfork.org/zh-CN/scripts/25026-add12306calender
+
 ref https://developers.google.com/google-apps/calendar/v3/reference/calendars/insert
 
 ctrl + shift + 1 12306->google calender
