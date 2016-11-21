@@ -1,6 +1,6 @@
 ref https://developers.google.com/google-apps/calendar/v3/reference/calendars/insert
-ctrl + shift + 1 CR
-ctrl + shift + a YHAChina
+
+ctrl + shift + 1 12306->google calender
 
 
 The MIT License (MIT)
